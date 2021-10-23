@@ -6,8 +6,8 @@ import (
 	"os"
 	"time"
 
-	client "github.com/moran666666/sector-counter/client"
-	server "github.com/moran666666/sector-counter/server"
+	client "github.com/Dictators/sector-counter/client"
+	server "github.com/Dictators/sector-counter/server"
 )
 
 func main() {
